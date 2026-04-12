@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### Repositórios sobre genai
+
+- [Cowboy](https://github.com/emilianoeloi/cowboy) | cowboy é um tutorial hands-on de GitHub Copilot Agent Mode.
+
+- [ios-WK-UI-WebView](https://github.com/emilianoeloi/ios-WK-UI-WebView) | Practical skill repository for Apple WebView legacy and migration workflows.
+
 <!--
 **emilianoeloi/emilianoeloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
