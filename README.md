@@ -1,7 +1,5 @@
 ### Salve!
 
-Quinta-feira, 16 de março de 2026
-
 ## SwiftUI / Swift Package Manager
 
 ## Github Copilot / Sonnet 4.6
