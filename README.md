@@ -14,6 +14,8 @@
 
 - [Tutorial - ADK](https://github.com/emilianoeloi/adk) | Padrão agêntico do ADK com memória e MCP
 
+- [CircuitBreaker](https://github.com/AlexanderNey/CircuitBreaker) / [CircuitBreaker2](https://github.com/AlexanderNey/CircuitBreaker) / [Footprint](https://github.com/naftaly/Footprint) | Monitorar memória da App.
+
 <!--
 **emilianoeloi/emilianoeloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
