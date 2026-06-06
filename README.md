@@ -1,32 +1,42 @@
-### Salve!
+# Salve! Eu sou o Emiliano 👋
 
-## SwiftUI / Swift Package Manager
+Desenvolvedor iOS na [Globo](https://github.com/globocom) desde 2015.
+Construo SDKs em Swift, SwiftUI e Swift Package Manager.
+Atuo num time de plataforma compartilhada —
+feeds, artigos, vídeo, busca e design system.
 
-- [CircuitBreaker](https://github.com/AlexanderNey/CircuitBreaker) / [CircuitBreaker2](https://github.com/AlexanderNey/CircuitBreaker) / [Footprint](https://github.com/naftaly/Footprint) | Monitorar memória da App.
+Curioso por natureza. Fã de estradas longas, música de câmara e Star Trek.
 
-## Github Copilot / Sonnet 4.6
+---
 
-## Skill Google / ADK
+## 📱 iOS / Swift Package Manager
 
-#### Repositórios sobre genai
+Referências e experimentos com SDKs nativos.
 
-- [Cowboy](https://github.com/emilianoeloi/cowboy) | cowboy é um tutorial hands-on de GitHub Copilot Agent Mode.
+- [CircuitBreaker](https://github.com/AlexanderNey/CircuitBreaker) / [Footprint](https://github.com/naftaly/Footprint) — Monitorar memória e resiliência de apps iOS.
 
-- [ios-WK-UI-WebView](https://github.com/emilianoeloi/ios-WK-UI-WebView) | Practical skill repository for Apple WebView legacy and migration workflows.
+---
 
-- [Tutorial - ADK](https://github.com/emilianoeloi/adk) / [ADK 2.0](https://adk.dev/2.0/)| Padrão agêntico do ADK com memória e MCP
+## 🤖 GitHub Copilot / Claude Sonnet
 
-<!--
-**emilianoeloi/emilianoeloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Explorando o modo agente do Copilot com LLMs.
 
-Here are some ideas to get you started:
+- [Cowboy](https://github.com/emilianoeloi/cowboy) — Tutorial hands-on de GitHub Copilot Agent Mode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skill Google / ADK
+
+Estudos sobre GenAI, agentes e MCP.
+
+- [Cowboy](https://github.com/emilianoeloi/cowboy) — Copilot Agent Mode na prática.
+- [ios-WK-UI-WebView](https://github.com/emilianoeloi/ios-WK-UI-WebView) — WebView legado e migração no iOS.
+- [ADK Tutorial](https://github.com/emilianoeloi/adk) / [ADK 2.0](https://adk.dev/2.0/) — Padrão agêntico com memória e MCP.
+
+---
+
+## 🌐 Onde me encontrar
+
+- 🖥️ [emilianoeloi.com.br](https://emilianoeloi.com.br)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emilianoeloi/)
+- 📍 Guarapari, ES — Brasil
