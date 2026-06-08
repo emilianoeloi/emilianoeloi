@@ -31,6 +31,7 @@ Estudos sobre GenAI, agentes e MCP.
 
 - [Cowboy](https://github.com/emilianoeloi/cowboy) — Copilot Agent Mode na prática.
 - [ios-WK-UI-WebView](https://github.com/emilianoeloi/ios-WK-UI-WebView) — WebView legado e migração no iOS.
+- [Padrão agêntico do ADK com memória e MCP](https://codelabs.developers.google.com/adkcourse/instructions?hl=pt-br#8) | Orquestrador de Agents
 
 ---
 
