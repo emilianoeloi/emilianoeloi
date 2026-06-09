@@ -35,6 +35,15 @@ Estudos sobre GenAI, agentes e MCP.
 
 ---
 
+## Notas publicas 
+
+Junho de 2026 / [Loop Engineering](https://x.com/addyosmani/status/2064127981161959567)
+
+"Dívida de Compreensão — A lacuna crescente entre o código que o loop produz e o que o desenvolvedor genuinamente entende sobre esse código."
+
+
+---
+
 ## 🌐 Onde me encontrar
 
 - 🖥️ [emilianoeloi.com.br](https://emilianoeloi.com.br)
