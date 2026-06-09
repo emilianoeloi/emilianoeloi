@@ -5,7 +5,7 @@ Construo SDKs em Swift, SwiftUI e Swift Package Manager.
 Atuo num time de plataforma compartilhada —
 feeds, artigos, vídeo, busca e design system.
 
-Curioso por natureza. Fã de estradas longas, música de câmara e Star Trek.
+Curioso por natureza. Fã de estradas longas, música e Jornada nas Estrelas.
 
 ---
 
