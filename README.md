@@ -48,4 +48,4 @@ Junho de 2026 / [Loop Engineering](https://x.com/addyosmani/status/2064127981161
 
 - 🖥️ [emilianoeloi.com.br](https://emilianoeloi.com.br)
 - 💼 [LinkedIn](https://www.linkedin.com/in/emilianoeloi/)
-- 📍 Guarapari, ES — Brasil
+- 📍 Brasil
