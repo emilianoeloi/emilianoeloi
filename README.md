@@ -42,6 +42,10 @@ Junho de 2026 / [Loop Engineering](https://x.com/addyosmani/status/2064127981161
 
 "Dívida de Compreensão — A lacuna crescente entre o código que o loop produz e o que o desenvolvedor genuinamente entende sobre esse código."
 
+Agosto de 2026 / [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
+
+"LLMs são não determinísticos, não conhecem nosso contexto e realmente não entendem o código, pensam em tokens." Birgitta Böckeler
+
 
 ---
 
