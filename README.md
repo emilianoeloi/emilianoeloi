@@ -38,14 +38,13 @@ Estudos sobre GenAI, agentes e MCP.
 
 ## Notas publicas 
 
-Junho de 2026 / [Loop Engineering](https://x.com/addyosmani/status/2064127981161959567)
+- Agosto de 2026 / [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
 
-"Dívida de Compreensão — A lacuna crescente entre o código que o loop produz e o que o desenvolvedor genuinamente entende sobre esse código."
+> "Os LLMs não são determinísticos. Eles não conhecem nosso contexto e não entendem realmente o código, pois pensam em tokens." Birgitta Böckeler
 
-Agosto de 2026 / [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
+- Junho de 2026 / [Loop Engineering](https://x.com/addyosmani/status/2064127981161959567)
 
-"LLMs são não determinísticos, não conhecem nosso contexto e realmente não entendem o código, pensam em tokens." Birgitta Böckeler
-
+> "Dívida de compreensão — a lacuna crescente entre o código que o loop produz e o que o desenvolvedor entende de fato desse código." Addy Osmani
 
 ---
 
