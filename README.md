@@ -38,6 +38,10 @@ Estudos sobre GenAI, agentes e MCP.
 
 ## Notas publicas 
 
+- Setembro de 2026 / [Glossário de IA](https://ibelick.com/ai-glossary)
+
+> "An interactive way to understand the core concepts behind artificial intelligence."  ai-glossary
+
 - Agosto de 2026 / [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
 
 > "Os LLMs não são determinísticos. Eles não conhecem nosso contexto e não entendem realmente o código, pois pensam em tokens." Birgitta Böckeler
