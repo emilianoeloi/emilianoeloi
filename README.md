@@ -17,7 +17,7 @@ Referências e experimentos com SDKs nativos.
 
 ---
 
-## 🤖 GitHub Copilot / Claude Sonnet
+## 🤖 GitHub Copilot / Luna and Kimi
 
 Explorando o modo agente do Copilot com LLMs.
 
