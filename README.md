@@ -40,7 +40,7 @@ Estudos sobre GenAI, agentes e MCP.
 
 - Outubro de 2026 / [Engenharia de Prompt para Dev](https://www.casadocodigo.com.br/products/livro-engenharia-de-prompt)
 
-> "Modelos de linguagem são ferramentas probabilísticas que analisam e geram sequências de palavras com base em dados textuais."
+> "Modelos de linguagem são ferramentas probabilísticas que analisam e geram sequências de palavras com base em dados textuais." Ricardo Pupo Larguesa
 
 - Setembro de 2026 / [Glossário de IA](https://ibelick.com/ai-glossary)
 
