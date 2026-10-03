@@ -38,6 +38,10 @@ Estudos sobre GenAI, agentes e MCP.
 
 ## Notas publicas 
 
+- Outubro de 2026 / [Engenharia de Prompt para Dev](https://www.casadocodigo.com.br/products/livro-engenharia-de-prompt)
+
+> "Modelos de linguagem são ferramentas probabilísticas que analisam e geram sequências de palavras com base em dados textuais."
+
 - Setembro de 2026 / [Glossário de IA](https://ibelick.com/ai-glossary)
 
 > "An interactive way to understand the core concepts behind artificial intelligence."  ai-glossary
