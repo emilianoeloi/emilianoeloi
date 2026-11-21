@@ -17,7 +17,7 @@ Referências e experimentos com SDKs nativos.
 
 ---
 
-## 🤖 GitHub Copilot / Luna and Kimi
+## 🤖 GitHub Copilot, Claude Code and Antigravity / Gemini, Sonnet, Luna and Kimi
 
 Explorando o modo agente do Copilot com LLMs.
 
@@ -37,6 +37,9 @@ Estudos sobre GenAI, agentes e MCP.
 ---
 
 ## Notas publicas 
+
+- Novembro de 2026 / [Agent Package Manager](https://microsoft.github.io/apm/)
+> "APM is the dependency manager for the agent supply chain: one manifest, one lockfile and one org policy for the skills, plugins and MCP servers your agents load, with the harnesses and marketplaces you already use." Microsoft APM
 
 - Outubro de 2026 / [Engenharia de Prompt para Dev](https://www.casadocodigo.com.br/products/livro-engenharia-de-prompt)
 
